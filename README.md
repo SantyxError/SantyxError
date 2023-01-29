@@ -5,7 +5,7 @@
   />
   <h1 align="center">Hello there👋, I'm SantyxError</h1>
   <h3 align="center">🔭 I'm a Web Developer in process</h3>
-  <h3 align="center">💬 Ask me about JavaScript (Angular), Graphic Design, MySQL, Java, Linux</h3>
+  <h3 align="center">💬 Ask me about JavaScript (Angular), Graphic Design, MySQL, Java, Linux and much more!</h3>
 </div>
 
 <div align="left">
@@ -25,7 +25,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="bootstrap" alt="bootstrap" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  title="docker" alt="docker" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  title="git" alt="git" width="40" height="40">
-
+   
     </div>
  </div>
 
