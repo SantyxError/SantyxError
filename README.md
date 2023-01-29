@@ -15,7 +15,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS3" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JavaScript" alt="JavaScript" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg.svg"  title="angularjs" alt="angularjs" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  title="nodejs" alt="nodejs">width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  title="nodejs" alt="nodejs" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="php" alt="php" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"  title="laravel" alt="laravel" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="sass" alt="sass" width="40" height="40">
