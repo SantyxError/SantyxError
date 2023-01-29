@@ -29,7 +29,7 @@
     </div>
  </div>
 
- <h3 align="center">:bar_chart:My stats:</h3>
+ <h3 align="left">:bar_chart:My stats:</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santyxerror&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
