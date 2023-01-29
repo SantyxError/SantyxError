@@ -7,10 +7,10 @@
   <h3 align="center">🔭 I'm a Web Developer in process</h3>
   <h3 align="center">💬 Ask me about JavaScript (Angular), Graphic Design, MySQL, Java, Linux and much more!</h3>
 </div>
-
-<div align="left">
+<hr>
+<div align="center">
     <h3>:hammer:Languages and Tools:</h3>
-    <div>
+    <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  title="HTML5" alt="HTML5" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS3" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JavaScript" alt="JavaScript" width="40" height="40">
@@ -26,9 +26,9 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  title="docker" alt="docker" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  title="git" alt="git" width="40" height="40">
    
-
-
- <h3 align="left">:bar_chart:My stats:</h3>
+<hr>
+<div align="center">
+ <h3 align="center">:bar_chart:My stats:</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santyxerror&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
