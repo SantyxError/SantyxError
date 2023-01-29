@@ -27,7 +27,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  title="git" alt="git" width="40" height="40">
 
     </div>
-
+ </div>
 
  <h3 align="center">:bar_chart:My stats:</h3>
 
