@@ -5,7 +5,7 @@
   />
   <h1 align="center">Hello there👋, I'm SantyxError</h1>
   <h3 align="center">🔭 I'm a Web Developer in process</h3>
-  <h3 align="center">💬 Ask me about JavaScript (React), Graphic Design, MySQL, Java, Linux</h3>
+  <h3 align="center">💬 Ask me about JavaScript (Angular), Graphic Design, MySQL, Java, Linux</h3>
 </div>
 
 <div align="left">
@@ -14,7 +14,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  title="HTML5" alt="HTML5" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS3" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JavaScript" alt="JavaScript" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg.svg"  title="angularjs" alt="angularjs" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"  title="angularjs" alt="angularjs" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  title="nodejs" alt="nodejs" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="php" alt="php" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"  title="laravel" alt="laravel" width="40" height="40">
@@ -29,7 +29,7 @@
     </div>
 </div>
 
-my Stats
+ <h3 align="center">:bar_chart:My stats:</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santyxerror&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
