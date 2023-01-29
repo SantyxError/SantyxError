@@ -26,8 +26,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  title="docker" alt="docker" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  title="git" alt="git" width="40" height="40">
    
-    </div>
- </div>
+
 
  <h3 align="left">:bar_chart:My stats:</h3>
 
