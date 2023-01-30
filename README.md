@@ -4,7 +4,7 @@
     width="200"
   />
   <h1 align="center">Hello there👋, I'm SantyxError</h1>
-  <h3 align="center">🔭 I'm a Web Developer in process</h3>
+  <h3 align="center">:rocket: I'm a Web Developer in process</h3>
   <h3 align="center">💬 Ask me about JavaScript (Angular), Graphic Design, MySQL, Java, Linux and much more!</h3>
 </div>
 <hr>
