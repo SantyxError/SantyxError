@@ -21,10 +21,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="sass" alt="sass" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title="java" alt="java" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="bootstrap" alt="bootstrap" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"  title="tailwindcss" alt="tailwindcss" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="tailwindcss" alt="tailwindcss" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="bootstrap" alt="bootstrap" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  title="docker" alt="docker" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  title="git" alt="git" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  title="git" alt="git" width="40" height="40">
    
 <hr>
 <div align="center">
