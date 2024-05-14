@@ -14,7 +14,7 @@
   </ul>
   <h2>:briefcase: Experience</h2>
   <ul align="left">
-    <li><strong>AECOC</strong>: Participated in the back-end development of a crucial project, expanding my knowledge in server-side technologies.</li>
+    <li><strong>Sngular</strong>: Participated in the back-end development of crucial projects, expanding my knowledge in server-side technologies.</li>
     <li><strong>Freelance Projects</strong>: Worked on multiple freelance projects, designing and developing custom websites for a variety of clients.</li>
   </ul>
   <h2>:telephone_receiver: Contact</h2>
