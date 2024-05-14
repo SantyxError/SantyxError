@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zyclIRxMwlY40/giphy.gif" width="200" />
   <h1 align="center">Hello there👋, I'm SantyxError</h1>
-  <h3 align="left">🚀 I'm a Web Developer in process</h3>
+  <h3 align="left">🚀 I'm a Front Web Developer</h3>
   <h3 align="left">💬 Ask me about React, Graphic Design, MySQL, Java, Linux, and much more!</h3>
   <p align="left">I'm a passionate front-end developer with a solid background in graphic design. Throughout my career, I have had the opportunity to work on diverse projects that have strengthened my skills and knowledge in developing dynamic and responsive user interfaces.</p>
   <h2>:wrench: Technical Skills</h2>
