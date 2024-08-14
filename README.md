@@ -14,8 +14,9 @@
   </ul>
   <h2>:briefcase: Experience</h2>
   <ul align="left">
-    <li><strong>Sngular</strong>: Participated in the back-end development of crucial projects, expanding my knowledge in server-side technologies.</li>
-    <li><strong>Freelance Projects</strong>: Worked on multiple freelance projects, designing and developing custom websites for a variety of clients.</li>
+    <li><strong>Adding Technology</strong> (2024-present): Working in highly scalable, high traffic web platforms or applications with low latency, based on an API ecosystem corporate structure.</li>
+    <li><strong>Sngular</strong> (2023-2024): Participated in the back-end development of crucial projects, expanding my knowledge in server-side technologies.</li>
+    <li><strong>Freelance Projects</strong> (2022-present): Worked on multiple freelance projects, designing and developing custom websites for a variety of clients.</li>
   </ul>
   <h2>:telephone_receiver: Contact</h2>
   <ul align="left">
