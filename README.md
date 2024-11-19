@@ -1,15 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zyclIRxMwlY40/giphy.gif" width="200" />
   <h1 align="center">Hello there👋, I'm SantyxError</h1>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/santiago-benito-maldonado/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<a href="https://x.com/santyx_error" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
-  </a>
-    
-</div>
 
   <h3 align="left">🚀 I'm a Front Web Developer</h3>
   <h3 align="left">💬 Ask me about React, Graphic Design, MySQL, Java, Linux, and much more!</h3>
@@ -29,10 +20,12 @@
     <li><strong>Freelance Projects</strong> <i>(sept. 2021 - present)</i>: Worked on multiple freelance projects, designing and developing custom websites for a variety of clients.</li>
   </ul>
   <h2>:telephone_receiver: Contact</h2>
-  <ul align="left">
-    <li><strong>LinkedIn:</strong> https://www.linkedin.com/in/santiago-benito-maldonado/</li>
-    <li><strong>Email:</strong> sanbemal@gmail.com</li>
-  </ul>
+
+
+<a href="https://www.linkedin.com/in/santiago-benito-maldonado/" rel="nofollow" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="https://x.com/santyx_error" rel="nofollow" target="_blank"> <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/></a>
+<a href="mailto:sanbemal@gmail.com" rel="nofollow" target="_blank">  <img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+
   <p align="left">I'm always open to new opportunities and collaborations. If you have a project in mind or just want to connect, feel free to contact me. Let's talk and build something amazing together!</p>
 </div>
 <hr>
